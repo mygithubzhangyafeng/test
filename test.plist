@@ -39,7 +39,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>com.creaditease.qxstocks</string>
+                <string>com.creditwealth.qxstocks</string>
             </dict>
         </dict>
     </array>
